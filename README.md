@@ -14,4 +14,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PostGRESQL](https://img.shields.io/badge/postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=flat&logo=canva)
