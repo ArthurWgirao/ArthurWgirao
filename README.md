@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2000&pause=1000&color=FFFF00&width=435&lines=Hello%2C+my+name+is+Arthur.;I'm+20+years+old;I'm+currently+studying+Data+Science+at+UFC.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2000&pause=1000&color=FFFF00&width=435&lines=Hello%2C+my+name+is+Arthur.;I'm+21+years+old;I'm+currently+studying+Data+Science+at+UFC.)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurWgirao&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=0d1117" />
