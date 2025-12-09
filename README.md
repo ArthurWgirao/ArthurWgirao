@@ -21,7 +21,7 @@ I love transforming raw information into insights, building intelligent models, 
 - 📊 Focused on **Data Science** and **Data Analysis**  
 - 🤖 Experience with **Machine Learning**, classification models, and automation  
 - 🧬 Interested in applying AI to **biology**, ecology, and environmental studies  
-- 🐦 Built a **bird species classifier using ML** *(completed project)*  
+- 🐦 Built a **bird species classifier using ML**   
 - 🔍 Strong curiosity for analytics, pattern discovery, and real-world data problems  
 - 🚀 Constantly learning and improving my skills  
 
